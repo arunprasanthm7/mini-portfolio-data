@@ -5,8 +5,8 @@
     "image": "https://raw.githubusercontent.com/arunprasanthm7/mini-portfolio-data/refs/heads/main/qrCode.png",
     "description": "Too much to type? Just a scan can fetch your desired result!",
     "tech": ["Html", "Css", "JavaScript"],
-    "link": "https://super-stardust-98862e.netlify.app/",
-    "codeBase-link" : "https://github.com/arunprasanthm7/QRcode"
+    "demoLink": "https://super-stardust-98862e.netlify.app/",
+    "githubLink" : "https://github.com/arunprasanthm7/QRcode"
   },
   {
     "id": 2,
@@ -14,8 +14,8 @@
     "image": "https://raw.githubusercontent.com/arunprasanthm7/mini-portfolio-data/refs/heads/main/pswdGntr.png",
     "description": "Generating a random password with good security!",
     "tech": ["Html", "Css", "JavaScript"],
-    "link": "https://yourportfolio.com",
-    "codeBase-link" : "https://github.com/arunprasanthm7/scrimbaProjects-pswdGenerator"
+    "demoLink": "https://yourportfolio.com",
+    "githubLink" : "https://github.com/arunprasanthm7/scrimbaProjects-pswdGenerator"
   }
   ,
   {
@@ -24,8 +24,8 @@
     "image": "https://raw.githubusercontent.com/arunprasanthm7/mini-portfolio-data/refs/heads/main/scoreboard.png",
     "description": "Why wait to start the game when calculating score can be made easy!",
     "tech": ["Html", "Css", "JavaScript"],
-    "link": "https://lively-bubblegum-a9ba71.netlify.app/",
-    "codeBase-link" : "https://github.com/arunprasanthm7/scrimbaProjects-Scoreboard"
+    "demoLink": "https://lively-bubblegum-a9ba71.netlify.app/",
+    "githubLink" : "https://github.com/arunprasanthm7/scrimbaProjects-Scoreboard"
   }
     ,
   {
@@ -34,8 +34,8 @@
     "image": "https://raw.githubusercontent.com/arunprasanthm7/mini-portfolio-data/refs/heads/main/unitconversion.png",
     "description": "You are just one click away from a simplified Metric/Imperial unit conversion!",
     "tech": ["Html", "Css", "JavaScript"],
-    "link": "https://amazing-conkies-ffaade.netlify.app/",
-    "codeBase-link" : "https://github.com/arunprasanthm7/scrimbaProjects-UnitConversion"
+    "demoLink": "https://amazing-conkies-ffaade.netlify.app/",
+    "githubLink" : "https://github.com/arunprasanthm7/scrimbaProjects-UnitConversion"
   }
 ]
 

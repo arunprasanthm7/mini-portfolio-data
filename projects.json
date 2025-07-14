@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "makeyourQR",
+    "description": "Too much to type? Just a scan can fetch your desired result!",
+    "tech": ["React", "CSS", "API"],
+    "link": "https://super-stardust-98862e.netlify.app/",
+    "codeBase-link" : "https://github.com/arunprasanthm7/QRcode"
+  },
+  {
+    "id": 2,
+    "title": "Password Generator",
+    "description": "Generating a random password with good security!",
+    "tech": ["React", "Tailwind"],
+    "link": "https://yourportfolio.com",
+    "codeBase-link" : "https://github.com/arunprasanthm7/scrimbaProjects-pswdGenerator"
+  }
+]
+
+
+
+

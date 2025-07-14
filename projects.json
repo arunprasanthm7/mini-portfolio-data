@@ -3,7 +3,7 @@
     "id": 1,
     "title": "makeyourQR",
     "description": "Too much to type? Just a scan can fetch your desired result!",
-    "tech": ["React", "CSS", "API"],
+    "tech": ["Html", "Css", "JavaScript"],
     "link": "https://super-stardust-98862e.netlify.app/",
     "codeBase-link" : "https://github.com/arunprasanthm7/QRcode"
   },
@@ -11,11 +11,31 @@
     "id": 2,
     "title": "Password Generator",
     "description": "Generating a random password with good security!",
-    "tech": ["React", "Tailwind"],
+    "tech": ["Html", "Css", "JavaScript"],
     "link": "https://yourportfolio.com",
     "codeBase-link" : "https://github.com/arunprasanthm7/scrimbaProjects-pswdGenerator"
   }
+  ,
+  {
+    "id": 3,
+    "title": "ScoreBoard",
+    "description": "Why wait to start the game when calculating score can be made easy!",
+    "tech": ["Html", "Css", "JavaScript"],
+    "link": "https://lively-bubblegum-a9ba71.netlify.app/",
+    "codeBase-link" : "https://github.com/arunprasanthm7/scrimbaProjects-Scoreboard"
+  }
+    ,
+  {
+    "id": 4,
+    "title": "Unit Conversion",
+    "description": "You are just one click away from a simplified Metric/Imperial unit conversion!",
+    "tech": ["Html", "Css", "JavaScript"],
+    "link": "https://amazing-conkies-ffaade.netlify.app/",
+    "codeBase-link" : "https://github.com/arunprasanthm7/scrimbaProjects-UnitConversion"
+  }
 ]
+
+
 
 
 

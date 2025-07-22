@@ -6,7 +6,8 @@
     "description": "Too much to type? Just a scan can fetch your desired result!",
     "tech": ["Html", "Css", "JavaScript"],
     "demoLink": "https://super-stardust-98862e.netlify.app/",
-    "githubLink" : "https://github.com/arunprasanthm7/QRcode"
+    "githubLink": "https://github.com/arunprasanthm7/QRcode",
+    "techStack": ["Html","Css","JavaScript","netlify"]
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "description": "Generating a random password with good security!",
     "tech": ["Html", "Css", "JavaScript"],
     "demoLink": "https://yourportfolio.com",
-    "githubLink" : "https://github.com/arunprasanthm7/scrimbaProjects-pswdGenerator"
+    "githubLink" : "https://github.com/arunprasanthm7/scrimbaProjects-pswdGenerator",
+     "techStack": ["Html","Css","JavaScript","netlify"]
   }
   ,
   {
@@ -25,7 +27,8 @@
     "description": "Why wait to start the game when calculating score can be made easy!",
     "tech": ["Html", "Css", "JavaScript"],
     "demoLink": "https://lively-bubblegum-a9ba71.netlify.app/",
-    "githubLink" : "https://github.com/arunprasanthm7/scrimbaProjects-Scoreboard"
+    "githubLink" : "https://github.com/arunprasanthm7/scrimbaProjects-Scoreboard",
+     "techStack": ["Html","Css","JavaScript","netlify"]
   }
     ,
   {
@@ -35,7 +38,8 @@
     "description": "You are just one click away from a simplified Metric/Imperial unit conversion!",
     "tech": ["Html", "Css", "JavaScript"],
     "demoLink": "https://amazing-conkies-ffaade.netlify.app/",
-    "githubLink" : "https://github.com/arunprasanthm7/scrimbaProjects-UnitConversion"
+    "githubLink" : "https://github.com/arunprasanthm7/scrimbaProjects-UnitConversion",
+     "techStack": ["Html","Css","JavaScript","netlify"]
   }
 ]
 

@@ -4,7 +4,7 @@
     "title": "makeyourQR",
     "image": "https://raw.githubusercontent.com/arunprasanthm7/mini-portfolio-data/refs/heads/main/qrCode.png",
     "description": "Too much to type? Just a scan can fetch your desired result!",
-    "techStack": ["Html","Css","JavaScript","netlify"]
+    "techStack": ["Html","Css","JavaScript","netlify"],
     "demoLink": "https://super-stardust-98862e.netlify.app/",
     "githubLink": "https://github.com/arunprasanthm7/QRcode"
   },
@@ -13,7 +13,7 @@
     "title": "Password Generator",
     "image": "https://raw.githubusercontent.com/arunprasanthm7/mini-portfolio-data/refs/heads/main/pswdGntr.png",
     "description": "Generating a random password with good security!",
-     "techStack": ["Html","Css","JavaScript","netlify"]
+     "techStack": ["Html","Css","JavaScript","netlify"],
     "demoLink": "https://yourportfolio.com",
     "githubLink" : "https://github.com/arunprasanthm7/scrimbaProjects-pswdGenerator"
   }
@@ -23,7 +23,7 @@
     "title": "ScoreBoard",
     "image": "https://raw.githubusercontent.com/arunprasanthm7/mini-portfolio-data/refs/heads/main/scoreboard.png",
     "description": "Why wait to start the game when calculating score can be made easy!",
-     "techStack": ["Html","Css","JavaScript","netlify"]
+     "techStack": ["Html","Css","JavaScript","netlify"],
     "demoLink": "https://lively-bubblegum-a9ba71.netlify.app/",
     "githubLink" : "https://github.com/arunprasanthm7/scrimbaProjects-Scoreboard"
   }
@@ -33,7 +33,7 @@
     "title": "Unit Conversion",
     "image": "https://raw.githubusercontent.com/arunprasanthm7/mini-portfolio-data/refs/heads/main/unitconversion.png",
     "description": "You are just one click away from a simplified Metric/Imperial unit conversion!",
-     "techStack": ["Html","Css","JavaScript","netlify"]
+     "techStack": ["Html","Css","JavaScript","netlify"],
     "demoLink": "https://amazing-conkies-ffaade.netlify.app/",
     "githubLink" : "https://github.com/arunprasanthm7/scrimbaProjects-UnitConversion"
   }

@@ -14,7 +14,7 @@
     "image": "https://raw.githubusercontent.com/arunprasanthm7/mini-portfolio-data/refs/heads/main/pswdGntr.png",
     "description": "Generating a random password with good security!",
      "techStack": ["Html","Css","JavaScript","Netlify"],
-    "demoLink": "https://yourportfolio.com",
+    "demoLink": "https://transcendent-peony-bddcfa.netlify.app",
     "githubLink" : "https://github.com/arunprasanthm7/scrimbaProjects-pswdGenerator"
   }
   ,
